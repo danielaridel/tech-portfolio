@@ -17,25 +17,29 @@ sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 -->
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+1. Computer Science PhD Student at University of Sao Paulo
+1. Masters in Computer Science by USP
+1. Bachelors in Computer Science by UFMS (Go Ararabots!)
+1. I enjoy reading about communication and investments :)
 
+<!--- 
 Write it in first (I) or third (Your Name Here) person.
-
 > Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
-
+-->
 ## Current Role
 
-Computer Science PhD Student
+Computer Science PhD Student at University of Sao Paulo
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
-
+- ROSCon 2019 Diversity Scholar Fulbright Doctoral Dissertation Research Award (DDRA) 
+- Windows Insider Women in Computing Award 
+- Travel support scholarship Women in ITS (Intelligent transportation Systems) 
+- First place in Startup Weekend Universitário São Carlos Third place in Latin American Robotics Competition (LARC - 2012), IEEE Standard Educational Kits (SEK) 
+- Second place in First Phase XVII Programming Marathon (MS), International Collegiate Programming Contest
+<!--- 
 ## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
+Twitter
+LinkedIn
+GitHub
+-->
