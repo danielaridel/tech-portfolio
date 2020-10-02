@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Daniela', // Title for your website.
+    title: 'Daniela Ridel', // Title for your website.
     tagline: 'Deep Learning | Computer Vision | Robotics',
     profilePhoto: 'img/profile.png',
     url: 'https://danielaridel.github.io', // Your website URL
