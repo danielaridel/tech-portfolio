@@ -16,3 +16,7 @@ or even embed images with the following Markdown:
 <a href="(https://www.youtube.com/watch?v=PK25doNaU8s
 " target="_blank"><img src="http://img.youtube.com/vi/PK25doNaU8s/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/PK25doNaU8s/0.jpg)](ttps://www.youtube.com/watch?v=PK25doNaU8s)
