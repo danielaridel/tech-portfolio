@@ -40,8 +40,7 @@ Computer Science PhD Student at University of Sao Paulo
 - First place in Startup Weekend Universitário São Carlos Third place in Latin American Robotics Competition (LARC - 2012), IEEE Standard Educational Kits (SEK) 
 - Second place in First Phase XVII Programming Marathon (MS), International Collegiate Programming Contest
 
-
-## Teste
+<!--- 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   chat-icon="https://storage.googleapis.com/cloudprod-apiai/e3a2c93a-e671-43e8-bcf1-b8282145166c_x.png"
@@ -50,7 +49,7 @@ Computer Science PhD Student at University of Sao Paulo
   agent-id="e994583d-a555-43b6-85d1-9c502350e112"
   language-code="pt-br"
 ></df-messenger>
-
+-->
 ## Social Media
 Twitter: [twitter.com/daniridel](https://twitter.com/daniridel)
 LinkedIn: [linkedin.com/in/danielaridel/](https://www.linkedin.com/in/danielaridel/)
