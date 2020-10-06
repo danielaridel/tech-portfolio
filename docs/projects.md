@@ -50,10 +50,3 @@ https://www.youtube.com/watch?v=kLLHo0ilDhg)
 [![Tracking](http://img.youtube.com/vi/WlnrENeyPAA/0.jpg)](
 https://www.youtube.com/watch?v=WlnrENeyPAA)
 
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-<df-messenger
-  intent="WELCOME"
-  chat-title="Dani"
-  agent-id="e994583d-a555-43b6-85d1-9c502350e112"
-  language-code="pt-br"
-></df-messenger>
