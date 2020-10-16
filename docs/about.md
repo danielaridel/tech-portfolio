@@ -58,6 +58,9 @@ GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
   language-code="pt-br"
 ></df-messenger>
 -->
+
+
+<!--- 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   intent="WELCOME"
@@ -65,3 +68,4 @@ GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
   agent-id="3dcada2d-5f12-4a4c-8d52-19fa52735d44"
   language-code="pt-br"
 ></df-messenger>
+-->
