@@ -51,12 +51,13 @@ https://www.youtube.com/watch?v=kLLHo0ilDhg)
 https://www.youtube.com/watch?v=WlnrENeyPAA)
 
 
-
+<!-- 
 <script type="text/javascript"
     id="botcopy-embedder-d7lcfheammjct"
     class="botcopy-embedder-d7lcfheammjct" 
     data-botId="5f7db2b25f57c700080c5460"
 >
+--> 
     var s = document.createElement('script'); 
     s.type = 'text/javascript'; s.async = true; 
     s.src = 'https://widget.botcopy.com/js/injection.js'; 
