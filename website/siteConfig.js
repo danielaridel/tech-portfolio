@@ -51,8 +51,8 @@ const siteConfig = {
     copyright: `Copyright © ${new Date().getFullYear()} `,
 
     highlight: {
-        // Highlight.js theme to use for syntax highlighting in code blocks. default
-        theme: 'atom-one-dark',
+        // Highlight.js theme to use for syntax highlighting in code blocks. atom-one-dark
+        theme: 'default',
     },
 
     // Add custom scripts here that would be placed in <script> tags.
