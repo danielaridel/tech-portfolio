@@ -6,7 +6,7 @@
  */
 
 
-/* your custom css color link light blue #72C3E7*/
+/* your custom css color link light blue #72C3E7 #0B0080*/
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {}
 
@@ -23,7 +23,7 @@
 }
 
 a {
-    color: #0B0080;
+    color: #72C3E7;
 }
 
 .social a {
