@@ -12,18 +12,12 @@ During my master I worked with stereo/mono cameras to solve obstacle detection a
 
 I want to keep learning and solving complex problems, and I'll never miss the opportunity of inspiring some girls on the way.
 
-
 ## Education 
 
 1. Computer Science PhD Student at University of Sao Paulo
 1. Masters in Computer Science by USP
 1. Bachelors in Computer Science by UFMS (Go Ararabots!)
 1. I enjoy reading about communication and investments :)
-
-<!--- 
-Write it in first (I) or third (Your Name Here) person.
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
--->
 
 ## Current Role
 
