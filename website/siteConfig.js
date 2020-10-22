@@ -41,10 +41,10 @@ const siteConfig = {
 
     favicon: 'img/favicon.ico',
 
-    /* Colors for website */
+    /* Colors for website color link '#72C3E7'*/
     colors: {
         primaryColor: '#2C312E',
-        secondaryColor: '#72C3E7',
+        secondaryColor: '#0B0080',
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
