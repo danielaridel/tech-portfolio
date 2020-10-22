@@ -17,6 +17,7 @@ sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 -->
+## Education 
 
 1. Computer Science PhD Student at University of Sao Paulo
 1. Masters in Computer Science by USP
@@ -35,10 +36,11 @@ Computer Science PhD Student at University of Sao Paulo
 ## Recognition
 
 - 2019 ROSCon Diversity Scholar 
-- 2018 Fulbright Doctoral Dissertation Research Award (DDRA) 
+- 2019 Fellow - São Paulo School of Advanced Science on Learning from Data 
+- 2018 Fulbright Doctoral Dissertation Research Award (DDRA) - UC San Diego USA, LISA Lab
 - 2018 Windows Insider Women in Computing Award 
 - 2018 Travel support scholarship Women in ITS (Intelligent transportation Systems) 
-- 2016 Erasmus Mundus (Be Mundus) Scholarship
+- 2016 Erasmus Mundus (Be Mundus) Scholarship - KIT Germany, MRT
 - 2016 First place in Startup Weekend Universitário São Carlos 
 - 2012 Third place in Latin American Robotics Competition (LARC - 2012), IEEE Standard Educational Kits (SEK) 
 - 2012 Second place in First Phase XVII Programming Marathon (MS), International Collegiate Programming Contest
