@@ -34,7 +34,8 @@ Computer Science PhD Student at University of Sao Paulo
 
 ## Recognition
 
-- ROSCon 2019 Diversity Scholar Fulbright Doctoral Dissertation Research Award (DDRA) 
+- ROSCon 2019 Diversity Scholar 
+- Fulbright Doctoral Dissertation Research Award (DDRA) 
 - Windows Insider Women in Computing Award 
 - Travel support scholarship Women in ITS (Intelligent transportation Systems) 
 - First place in Startup Weekend Universitário São Carlos Third place in Latin American Robotics Competition (LARC - 2012), IEEE Standard Educational Kits (SEK) 
