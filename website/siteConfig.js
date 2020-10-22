@@ -41,18 +41,18 @@ const siteConfig = {
 
     favicon: 'img/favicon.ico',
 
-    /* Colors for website color link '#72C3E7'*/
+    /* Colors for website color link '#0B0080'*/
     colors: {
         primaryColor: '#2C312E',
-        secondaryColor: '#0B0080',
+        secondaryColor: '#72C3E7',
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
     copyright: `Copyright © ${new Date().getFullYear()} `,
 
     highlight: {
-        // Highlight.js theme to use for syntax highlighting in code blocks.
-        theme: 'default',
+        // Highlight.js theme to use for syntax highlighting in code blocks. default
+        theme: 'atom-one-dark',
     },
 
     // Add custom scripts here that would be placed in <script> tags.
