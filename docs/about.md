@@ -10,7 +10,7 @@ I was born and raised in Brazil, I had the opportunity to study abroad in Englan
 
 During my master I worked with stereo/mono cameras to solve obstacle detection and tracking applied to self-driving cars. Currently I have been researching about Long-Term Multi-Modal Trajectory Forecasting using Deep Learning.
 
-I want to keep learning and solving complex problems. In my free time I enjoy reading about communication and investments.
+I want to keep learning and solving complex problems. In my free time I enjoy [Photography](https://danielaridel.github.io/gallery/) and reading about communication and investments.
 
 
 ## Current Role
