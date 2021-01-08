@@ -50,7 +50,7 @@ My published work:
 * RIDEL, DANIELA A.; SHINZATO, PATRICK Y. ; WOLF, DENIS F. . A Clustering-Based Obstacle Segmentation Approach for Urban Environments. In: 12th Latin American Robotics Symposium (LARS) and 3rd Brazilian Symposium on Robotics (LARSSBR), 2015, Uberlândia/Brazil. p. 265-270.
 
 * RIDEL, D. A.; SHINZATO, P. Y. ; WOLF, D. F. . Obstacle segmentation with low-density disparity maps. In: 7th PPNIV/IROS Workshop on Planning, Perception and Navigation for Intelligent Vehicles, International Conference on Intelligent Robots and Systems, 2015, Hamburg/Germany.
-<!-- 
+<!--  --> 
 <script type="text/javascript"
     id="botcopy-embedder-d7lcfheammjct"
     class="botcopy-embedder-d7lcfheammjct" 
@@ -60,4 +60,4 @@ My published work:
     s.src = 'https://widget.botcopy.com/js/injection.js'; 
     document.getElementById('botcopy-embedder-d7lcfheammjct').appendChild(s);
 </script>
---> 
+
