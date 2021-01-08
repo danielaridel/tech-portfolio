@@ -51,20 +51,7 @@ GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
 
 
 
-<iframe
-    allow="microphone;"
-    width="350"
-    height="430"
-    src="https://console.dialogflow.com/api-client/demo/embedded/3dcada2d-5f12-4a4c-8d52-19fa52735d44">
-</iframe>
-
-
-
-
-
-
-
-<!--- 
+<!--- -->
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   chat-icon="https://storage.googleapis.com/cloudprod-apiai/e3a2c93a-e671-43e8-bcf1-b8282145166c_x.png"
@@ -73,7 +60,67 @@ GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
   agent-id="e994583d-a555-43b6-85d1-9c502350e112"
   language-code="pt-br"
 ></df-messenger>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--- 
+<iframe
+    allow="microphone;"
+    width="350"
+    height="430"
+    src="https://console.dialogflow.com/api-client/demo/embedded/3dcada2d-5f12-4a4c-8d52-19fa52735d44">
+</iframe>
 -->
+
+
+
+
+
+
+
 
 
 <!--- 
