@@ -45,13 +45,22 @@ LinkedIn: [linkedin.com/in/danielaridel/](https://www.linkedin.com/in/danielarid
 GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
 
 
+<script type="text/javascript"
+    id="botcopy-embedder-d7lcfheammjct"
+    class="botcopy-embedder-d7lcfheammjct" 
+    data-botId="5f7db2b25f57c700080c5460"
+>
+    var s = document.createElement('script'); 
+    s.type = 'text/javascript'; s.async = true; 
+    s.src = 'https://widget.botcopy.com/js/injection.js'; 
+    document.getElementById('botcopy-embedder-d7lcfheammjct').appendChild(s);
+</script>
 
 
 
 
 
-
-<!--- -->
+<!--- 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   chat-icon="https://storage.googleapis.com/cloudprod-apiai/e3a2c93a-e671-43e8-bcf1-b8282145166c_x.png"
@@ -61,7 +70,7 @@ GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
   language-code="pt-br"
 ></df-messenger>
 
-
+-->
 
 
 
