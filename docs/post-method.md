@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Post method example</title>
-    <style>
-      form {
-        width: 420px;
-      }
 
-      div {
-        margin-bottom: 20px;
-      }
-
-      label {
-        display: inline-block;
-        width: 240px;
-        text-align: right;
-        padding-right: 10px;
-      }
-
-      button, input {
-        float: right;
-      }
-    </style>
-  </head>
   <body>
     <form action="php-example.php" method="post">
       <div>
@@ -39,4 +14,3 @@
       </div>
     </form>
   </body>
-</html>
