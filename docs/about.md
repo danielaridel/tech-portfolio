@@ -45,7 +45,7 @@ LinkedIn: [linkedin.com/in/danielaridel/](https://www.linkedin.com/in/danielarid
 GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
 
 
-<form action="https://danielaridel.github.io/tech-portfolio/docs/display.html" method="GET">
+<form action="display.html" method="GET">
   <input type="text" name="serialNumber" />
   <input type="submit" value="Submit">
 </form> 
