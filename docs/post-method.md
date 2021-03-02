@@ -1,6 +1,6 @@
 
   <body>
-    <form action="php-example.php" method="post">
+    <form action="https://danielaridel.github.io/tech-portfolio/docs/php-example.php" method="post">
       <div>
         <label for="say">What greeting do you want to say?</label>
         <input name="say" id="say" value="Hi">
