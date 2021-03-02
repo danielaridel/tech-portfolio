@@ -44,6 +44,8 @@ Twitter: [twitter.com/daniridel](https://twitter.com/daniridel)
 LinkedIn: [linkedin.com/in/danielaridel/](https://www.linkedin.com/in/danielaridel/)
 GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
 
+<input type="text" id="name" name="name"/>
+
 <!--- 
 <iframe
     allow="microphone;"
