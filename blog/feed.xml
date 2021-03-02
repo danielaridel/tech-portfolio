@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Daniela Ridel Blog</title>
+        <link>https://danielaridel.github.io/tech-portfolio/blog</link>
+        <description>The best place to stay up-to-date with the latest Daniela Ridel news and events.</description>
+        <lastBuildDate>Fri, 02 Oct 2020 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Daniela Ridel Blog</title>
+            <url>https://danielaridel.github.io/tech-portfolio/undefined</url>
+            <link>https://danielaridel.github.io/tech-portfolio/blog</link>
+        </image>
+        <copyright>Copyright © 2021 </copyright>
+        <item>
+            <title><![CDATA[What do San Diego in California and São Carlos in Brazil have in common ?]]></title>
+            <link>https://danielaridel.github.io/tech-portfolio/blog/2020/10/02/blog-post.html</link>
+            <guid>https://danielaridel.github.io/tech-portfolio/blog/2020/10/02/blog-post.html</guid>
+            <pubDate>Fri, 02 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>(Originally published in LinkedIn on March 14, 2020)</p> <p>I had the opportunity to attend the ignite conference at UC San Diego - California last year. I was amazed by how many similarities I could find between San Diego, (where I was a Visiting PhD stude...</p>]]></description>
+        </item>
+    </channel>
+</rss>
