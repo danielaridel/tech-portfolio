@@ -44,17 +44,19 @@ Twitter: [twitter.com/daniridel](https://twitter.com/daniridel)
 LinkedIn: [linkedin.com/in/danielaridel/](https://www.linkedin.com/in/danielaridel/)
 GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
 
-<!---  <input type="text" id="name" name="name"/>
-<form target="_self" method="post">
+
+<form action="display.html" method="GET">
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname" value="John"><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value="Doe"><br><br>
   <input type="submit" value="Submit">
-</form> -->
+</form> 
 
 
+<!--- target="_self"-->
 
+<!---
 <form action="/action_page.php"
   oninput="x.value=parseInt(a.value)+parseInt(b.value)">
   0
@@ -66,7 +68,7 @@ GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
   <br><br>
   <input type="submit">
 </form>
-
+-->
 
 <!--- 
 <iframe
