@@ -44,6 +44,7 @@ Twitter: [twitter.com/daniridel](https://twitter.com/daniridel)
 LinkedIn: [linkedin.com/in/danielaridel/](https://www.linkedin.com/in/danielaridel/)
 GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
 
+<!---
 <form action="http://foo.com" method="POST">
   <div>
     <label for="say">What greeting do you want to say?</label>
@@ -57,6 +58,7 @@ GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
     <button>Send my greetings</button>
   </div>
 </form>
+-->
 
 
 <!---
