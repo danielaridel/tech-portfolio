@@ -44,7 +44,7 @@ Twitter: [twitter.com/daniridel](https://twitter.com/daniridel)
 LinkedIn: [linkedin.com/in/danielaridel/](https://www.linkedin.com/in/danielaridel/)
 GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
 
-<form action="http://www.foo.com" method="POST">
+<form action="display.html" method="POST">
   <div>
     <label for="say">What greeting do you want to say?</label>
     <input name="say" id="say" value="Hi">
