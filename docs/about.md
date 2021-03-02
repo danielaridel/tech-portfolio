@@ -46,15 +46,17 @@ GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
 
 
 <form action="display.html" method="GET">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="text" name="serialNumber" />
   <input type="submit" value="Submit">
 </form> 
 
 
-<!--- target="_self"-->
+<!--- 
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+target="_self"-->
 
 <!---
 <form action="/action_page.php"
