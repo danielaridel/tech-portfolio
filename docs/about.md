@@ -44,12 +44,28 @@ Twitter: [twitter.com/daniridel](https://twitter.com/daniridel)
 LinkedIn: [linkedin.com/in/danielaridel/](https://www.linkedin.com/in/danielaridel/)
 GitHub: [github.com/danielaridel/](https://github.com/danielaridel/)
 
+<form action="http://www.foo.com" method="POST">
+  <div>
+    <label for="say">What greeting do you want to say?</label>
+    <input name="say" id="say" value="Hi">
+  </div>
+  <div>
+    <label for="to">Who do you want to say it to?</label>
+    <input name="to" id="to" value="Mom">
+  </div>
+  <div>
+    <button>Send my greetings</button>
+  </div>
+</form>
+
+
+<!---
 
 <form action="display.html" method="GET">
   <input type="text" name="serialNumber" />
   <input type="submit" value="Submit">
 </form> 
-
+-->
 
 <!--- 
   <label for="fname">First name:</label><br>
